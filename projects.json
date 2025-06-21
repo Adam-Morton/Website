@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Moto Knight",
+		"description": "A motocross dungeon crawler featuring dynamic battle music and ambient tension layers.",
+		"url": "https://store.steampowered.com/app/2796920/Moto_Knight/",
+		"image": "img/moto-knight.jpg"
+	},
+	{
+		"title": "Sky Warden",
+		"description": "An airborne tower-defense game with adaptive orchestral music.",
+		"url": "https://example.com/sky-warden",
+		"image": "img/sky-warden.jpg"
+	}
+]
