@@ -10,5 +10,11 @@
 		"description": "An airborne tower-defense game with adaptive orchestral music.",
 		"url": "https://example.com/sky-warden",
 		"image": "img/sky-warden.jpg"
+	},
+	{
+		"title": "Another Game",
+		"description": "An airborne tower-defense game with adaptive orchestral music.",
+		"url": "https://example.com/sky-warden",
+		"image": "img/sky-warden2.jpg"
 	}
 ]
